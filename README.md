@@ -1,16 +1,20 @@
-## Hi there 👋
+# Overview
+Currently learning and improving skills
 
-<!--
-**arsalan-arish/arsalan-arish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python projects  
+- [turtlelab](https://github.com/arsalan-arish/turtlelab)  
+- [fastTkinter](https://github.com/arsalan-arish/fastTkinter)  
+- [async-lib](https://github.com/arsalan-arish/async-lib)  
+- [project-kodu](https://github.com/arsalan-arish/project-kodu)  
 
-Here are some ideas to get you started:
+### Asm/C Low-level projects
+- [os](https://github.com/arsalan-arish/os)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### C/C++ projects
+- [game](https://github.com/arsalan-arish/game)  
+
+### Personal Notes/Documentation 
+- [docs](https://github.com/arsalan-arish/docs)
+
+### All college assigned tasks/projects
+- [college](https://github.com/arsalan-arish/college)
