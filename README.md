@@ -13,6 +13,9 @@ Currently learning and improving skills
 ### C/C++ projects
 - [game](https://github.com/arsalan-arish/game)  
 
+### DSA code
+- [dsa](https://github.com/arsalan-arish/dsa)
+
 ### Personal Notes/Documentation 
 - [docs](https://github.com/arsalan-arish/docs)
 
